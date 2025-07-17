@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Abene",
+      "place": "Tunisia",
+      "phone": "+21653585935"
+    },
+    {
+      "id": "10",
+      "name": "Hiba",
+      "place": "Tunisia",
+      "phone": "+21655367921"
+    },
+    {
+      "id": "4",
+      "name": "dsddsdd",
+      "place": "dfs",
+      "phone": "fsdf4564365454"
+    }
+  ]
+}
